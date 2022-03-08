@@ -1,0 +1,2 @@
+E-Cabinet
+   This is a web based document management system. That will keep track of the documents based on the unique id's and help to reduce the misplace of physical files. Separate admin rigjts are given based on the roles/designation of the user. Not ment for public use.
